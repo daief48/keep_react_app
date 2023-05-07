@@ -36,7 +36,7 @@
     padding-top: 18px;
 }
 
-form{
+#form1{
   display: flex;
   flex-direction: column;
   box-shadow: 2px 2px 10px 4px rgb(14 55 54 / 15%);
@@ -60,6 +60,29 @@ form{
   z-index: 10000!important;
   background: white!important;
 }
+.btn2{
+  color: #ddc917!important;
+  width: 9px!important;
+  box-shadow: 2px 2px 10px 4px rgb(14 55 54 / 15%)!important;
+  border-radius: 50%!important;
+  height: 50px!important;
+  font-weight: bolder!important;
+  margin-top: 23px!important;
+  background: white!important;
+}
+.btn2:hover{
+  color: red!important;
+}
 .form_box{
 
+}
+.note{
+  width: 25vw;
+    box-shadow: 2px 2px 10px 4px rgb(14 55 54 / 15%);
+    padding: 14px;
+    margin: 3vh;
+}
+.delete_btn{
+  color: red!important;
+  margin-top: 14px;
 }
