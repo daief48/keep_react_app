@@ -1,9 +1,12 @@
 import React from 'react'
-
+import logo from './logo.png';
 export default function Header() {
   return (
     <>
-        <h1>Hi Header</h1>
+        <div className="header">
+            <img src={logo} alt="" srcset="" />
+            <h1>Keep</h1>
+        </div>
     </>
   )
 }
