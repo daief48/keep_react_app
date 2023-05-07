@@ -82,6 +82,10 @@
     padding: 14px;
     margin: 3vh;
 }
+.notes{
+  display: flex;
+  margin-top: 26px;
+}
 .delete_btn{
   color: red!important;
   margin-top: 14px;
