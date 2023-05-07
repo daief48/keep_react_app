@@ -16,3 +16,11 @@
 .header h1{
   color:rgb(255 144 9);
 }
+.footer{
+  position: absolute;
+  bottom: 0;
+  padding: 26px;
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+}
